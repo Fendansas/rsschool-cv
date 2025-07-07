@@ -16,3 +16,12 @@ __Frontend__
 
 __CMS__
 - WordPress
+
+### Code
+```javascript
+function multiply(a, b){
+  return a * b
+}
+```
+### Project
+[My first cv.md ](https://github.com/Fendansas/rsschool-cv/blob/gh-pages/cv.md)
