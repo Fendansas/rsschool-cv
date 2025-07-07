@@ -24,4 +24,4 @@ function multiply(a, b){
 }
 ```
 ### Project
-[My first cv.md ](https://github.com/Fendansas/rsschool-cv/blob/gh-pages/cv.md)
+[My first cv.md ](https://fendansas.github.io/rsschool-cv/cv)
