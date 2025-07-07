@@ -25,3 +25,8 @@ function multiply(a, b){
 ```
 ### Project
 [My first cv.md ](https://fendansas.github.io/rsschool-cv/cv)
+
+### Education
+- java (https://www.it-academy.by/)
+### English
+- A2 - B1
